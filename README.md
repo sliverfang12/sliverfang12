@@ -39,14 +39,6 @@ From slicing through Python code to building automated trading strategies, I'm o
 My toolkit for coding, trading, and slaying projects:  
 [Python](#) | [JavaScript](#) | [TypeScript](#) | [Pandas](#) | [FastAPI](#) | [MongoDB](#) | [Docker](#) | [Git](#)
 
----
-
-## GitHub Stats & Grind
-- **Total Stars Earned**: 0  
-- **Total Commits (last year)**: Starting fresh  
-- **Total PRs**: 0  
-- **Total Issues**: 0  
-- **Contributed to (last year)**: 0  
 
 ---
 
